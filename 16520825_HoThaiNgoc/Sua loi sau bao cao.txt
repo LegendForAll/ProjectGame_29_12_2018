@@ -1,0 +1,4 @@
+- Con bao khi cham dat chay nguoc lai duoc
+- Item roi nhanh len
+- Nuoc thanh khi danh candle moi roi xuong
+- Co them simon auto di qua cua, door simon den gan se mo ra
