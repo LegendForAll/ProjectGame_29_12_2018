@@ -239,7 +239,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	game->Init(hWnd);
 
 	//Init state game
-	_state->SetStateID(STATE_MAP_MENU);
+	_state->SetStateID(STATE_MAP_1);
 	_state->setTextGame(game);
 
 	LoadResources();
